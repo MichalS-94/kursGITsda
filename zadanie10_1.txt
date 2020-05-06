@@ -1,1 +1,1 @@
-To jest pierwszy plik do zadania 10
+To jest pierwsza zmiana pliku w tym branchu"
